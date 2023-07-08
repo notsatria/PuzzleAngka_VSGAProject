@@ -2,8 +2,6 @@
 
 ## What I Have Learned Towards This Section 
 
----
-
 - [x] Create a custom toolbar with action button
 - [x] Basic layouting (linear layout)
 - [x] Create a function within a button
